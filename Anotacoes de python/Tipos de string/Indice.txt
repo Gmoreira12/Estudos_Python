@@ -1,0 +1,4 @@
+nome = 'Gabriel'
+print(nome[0])
+#As strings são sequências de caracteres, de forma que podemos acessar um caractere em uma dada posição utilizando um índice.
+No exemplo a seguir, caso se queira obter o caractere na primeira posição da string nome, basta acessar o índice 0 da variável.

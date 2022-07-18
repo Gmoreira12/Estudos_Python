@@ -1,0 +1,16 @@
+#nome = 'Eduardo'
+#print(id(nome))
+#nome = 'Gabriel'
+#print(id(nome))
+#cria a variável nome na linha 1 e depois imprime a identidade dela na linha 2.
+# Já na linha 3 damos um novo valor à variável e novamente imprimimos a sua identidade na linha 4.
+# Os resultados que serão impressos não serão iguais, mostrando que as identidades da variável nome
+# são distintas, mostrando um objeto diferente do que foi criado.
+# Então pode-se concluir que a string não foi alterada, mas que foi criada uma nova.
+
+nome_1 = 'Willian'
+nome_2 = 'Ana'
+
+print(len(nome_1))
+print(len(nome_2))
+# O len conta a quantidade de caracteres na string.

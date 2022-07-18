@@ -1,0 +1,5 @@
+nome = 'Gabriel'
+sobrenome = 'Goncalves'
+
+print("Meu nome completo é", nome, " ", sobrenome)
+
