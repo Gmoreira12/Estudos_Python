@@ -1,0 +1,19 @@
+Uma característica importante a ser observada quando falamos dos operadores matemáticos é a precedência.
+Essa característica é relativa à ordem da execução deles e acontece quando mais de um operador está presente numa expressão.
+Segue a precedência dos operadores no Python.
+
+1.As expressões contidas em parênteses têm a precedência maior na linguagem Python.
+Isso permite que uma expressão execute antes de outra. Ex.:
+
+print((2 + 5) * 3)
+
+2.Após os parênteses, o próximo operador com maior precedência é o de exponenciação.
+
+print( 1 + 5**2 )
+
+3. Multiplicação e divisão têm precedência sobre a adição e subtração:
+como já é conhecido na matemática, divisão e multiplicação são executadas antes das operações de adição e subtração. Ex.:
+
+print(5 * 3 + 8)
+
+OBS: Ordem de precedência é avaliada da esquerda para a direita. Portanto, após os operadores anteriores, a sequência da execução será da esquerda para a direita

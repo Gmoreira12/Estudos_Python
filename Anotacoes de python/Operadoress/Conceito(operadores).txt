@@ -1,0 +1,11 @@
+Os operadores são usados na construção de expressões, as quais contém um número variado de operandos.
+ Por exemplo, na expressão a + b, temos o operador de aritmético + e operandos são as variáveis a e b.
+
+Na linguagem Python temos a seguinte separação entre os diferentes tipos de operadores:
+
+Operadores aritméticos
+Operadores de atribuição
+Operadores de comparação
+Operadores lógicos
+Operadores de identidade
+Operadores de associação
