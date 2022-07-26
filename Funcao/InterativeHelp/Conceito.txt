@@ -1,0 +1,3 @@
+# Os dois comandos têm a mesma função que é tirar uma dúvida em relação aos comandos nativos da linguagem python
+help(print)
+print(input.__doc__)
